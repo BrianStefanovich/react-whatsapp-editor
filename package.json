@@ -1,0 +1,56 @@
+{
+  "name": "react-whatsapp-text-editor",
+  "version": "1.0.0",
+  "description": "A react rtf text editor component that emulates WhatsApp text editor and output rtf on its own format (_cursive_ *bold* ~strikethrought~ ```monospace```)",
+  "main": "build/index.js",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "carbon-components": "^10.29.0",
+    "carbon-components-react": "^7.29.0",
+    "carbon-icons": "^7.0.7",
+    "emoji-mart": "^3.0.1",
+    "slate": "^0.59.0",
+    "slate-react": "^0.59.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.1",
+    "@babel/plugin-proposal-object-rest-spread": "^7.13.0",
+    "@babel/plugin-transform-react-jsx": "^7.12.17",
+    "@babel/preset-env": "^7.13.5",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.1.0",
+    "node-sass": "^5.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.32.8",
+    "sass-loader": "^11.0.1",
+    "schema-utils": "^3.0.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "carbon-components": "^10.29.0",
+    "carbon-components-react": "^7.29.0",
+    "carbon-icons": "^7.0.7",
+    "emoji-mart": "^3.0.1",
+    "slate": "^0.59.0",
+    "slate-react": "^0.59.0"
+  },
+  "keywords": [
+    "React",
+    "WhatsApp",
+    "Text",
+    "Editor"
+  ],
+  "author": "BrianStefanovich",
+  "license": "MIT"
+}
