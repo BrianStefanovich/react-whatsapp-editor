@@ -1,5 +1,12 @@
 # react-whatsapp-editor ![npm](https://img.shields.io/npm/v/react-whatsapp-text-editor)
 
+An easy to use rtf editor, that emulates WhatsApp editor and output rft text, on WhatsApp rtf format.
+
+![Component emoji piker opened](https://github.com/BrianStefanovich/react-whatsapp-editor/blob/master/img/emoji.png)
+![Component opened](https://github.com/BrianStefanovich/react-whatsapp-editor/blob/master/img/open.png)
+![Component closed](https://github.com/BrianStefanovich/react-whatsapp-editor/blob/master/img/closed.png)
+
+
 ## Instalation
 
 Run ```npm install react-whatsapp-editor```
