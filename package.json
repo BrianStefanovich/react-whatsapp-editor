@@ -1,11 +1,9 @@
 {
   "name": "react-whatsapp-text-editor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A react rtf text editor component that emulates WhatsApp text editor and output rtf on its own format (_cursive_ *bold* ~strikethrought~ ```monospace```)",
   "main": "build/index.js",
   "dependencies": {
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
     "carbon-components": "^10.29.0",
     "carbon-components-react": "^7.29.0",
     "carbon-icons": "^7.0.7",
@@ -37,8 +35,6 @@
     "build": "webpack"
   },
   "peerDependencies": {
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
     "carbon-components": "^10.29.0",
     "carbon-components-react": "^7.29.0",
     "carbon-icons": "^7.0.7",
